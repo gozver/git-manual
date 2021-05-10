@@ -1,4 +1,4 @@
-# Día 1
+# Curso de Git
 
 ## Conceptos
 
